@@ -1,0 +1,5 @@
+mode,false_positive_percent,failing_workloads
+baseline,0.0,-
+hardened,20.0,b4_tmpfile
+hardened+seccomp,20.0,b4_tmpfile
+hardened+seccomp+tmpfs,0.0,-
